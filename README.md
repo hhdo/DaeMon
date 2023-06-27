@@ -51,7 +51,8 @@ To get the optimal result reported in the paper, change the hyperparameters and 
 
 ## Citation
 If you find the resource in this repository helpful, please cite
-```
+
+```bibtex
 @article{dong2023adaptive,
   title={Adaptive Path-Memory Network for Temporal Knowledge Graph Reasoning},
   author={Dong, Hao and Ning, Zhiyuan and Wang, Pengyang and Qiao, Ziyue and Wang, Pengfei and Zhou, Yuanchun and Fu, Yanjie},
