@@ -53,6 +53,30 @@ To get the optimal result reported in the paper, change the hyperparameters and 
 If you find the resource in this repository helpful, please cite
 
 ```bibtex
+@inproceedings{DBLP:conf/ijcai/DongNWQWZF23,
+  author       = {Hao Dong and
+                  Zhiyuan Ning and
+                  Pengyang Wang and
+                  Ziyue Qiao and
+                  Pengfei Wang and
+                  Yuanchun Zhou and
+                  Yanjie Fu},
+  title        = {Adaptive Path-Memory Network for Temporal Knowledge Graph Reasoning},
+  booktitle    = {Proceedings of the Thirty-Second International Joint Conference on
+                  Artificial Intelligence, {IJCAI} 2023, 19th-25th August 2023, Macao,
+                  SAR, China},
+  pages        = {2086--2094},
+  publisher    = {ijcai.org},
+  year         = {2023},
+  url          = {https://doi.org/10.24963/ijcai.2023/232},
+  doi          = {10.24963/ijcai.2023/232},
+  timestamp    = {Mon, 28 Aug 2023 17:23:07 +0200},
+  biburl       = {https://dblp.org/rec/conf/ijcai/DongNWQWZF23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+```
+
+```bibtex
 @article{dong2023adaptive,
   title={Adaptive Path-Memory Network for Temporal Knowledge Graph Reasoning},
   author={Dong, Hao and Ning, Zhiyuan and Wang, Pengyang and Qiao, Ziyue and Wang, Pengfei and Zhou, Yuanchun and Fu, Yanjie},
